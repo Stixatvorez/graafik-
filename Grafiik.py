@@ -169,7 +169,7 @@ Rd2.pack(side=LEFT)
 Rd3.pack(side=LEFT)
 Rd4.pack(side=LEFT)
 Rd5.pack(side=LEFT)
-veel1.pack(side=LEFT)
+veel1.pack(side=LEFT)#
 
 aken.mainloop()
  
